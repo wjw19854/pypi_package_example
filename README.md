@@ -41,6 +41,7 @@ pip install --index-url https://test.pypi.org/simple/ pypi_package_example_wjw19
 
 - 本流程样例是上长传到测试仓库 并从测试仓库安装.如果要上传到正式共有仓库 ,去掉url参数即可.
 - 要上传成功必须在对应仓库注册账号
+- 更多内容请参照官方[totur](https://packaging.python.org/tutorials/packaging-projects/#packaging-python-projects)
 
 ## TODO
 
