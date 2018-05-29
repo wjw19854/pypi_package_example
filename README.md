@@ -26,7 +26,7 @@ version = 0.0.1
 
 
 
-```Python
+```Bash
 # 安装打包发布工具
 pip install -U setuptools wheel twine
 # 打包
